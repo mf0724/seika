@@ -1,0 +1,26 @@
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.baml
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.g.cs
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\App.g.cs
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.baml
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\MainWindow.g.cs
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\App.g.cs
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\1123109\Documents\GitHub\kinect\group\Team_wpr\1123109 古谷　進歩状況\Kinect_Animation - Skeleton - Ver2\obj\Debug\GenerateResource.write.1.tlog
